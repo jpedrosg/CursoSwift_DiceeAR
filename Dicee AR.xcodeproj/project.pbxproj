@@ -16,7 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		ADFDF1441F165E55005185EB /* Real Dicee.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Real Dicee.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		ADFDF1441F165E55005185EB /* Dicee AR.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Dicee AR.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		ADFDF1471F165E55005185EB /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		ADFDF1491F165E55005185EB /* art.scnassets */ = {isa = PBXFileReference; lastKnownFileType = wrapper.scnassets; path = art.scnassets; sourceTree = "<group>"; };
 		ADFDF14B1F165E55005185EB /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -40,7 +40,7 @@
 		ADFDF13B1F165E55005185EB = {
 			isa = PBXGroup;
 			children = (
-				ADFDF1461F165E55005185EB /* Real Dicee */,
+				ADFDF1461F165E55005185EB /* Dicee AR */,
 				ADFDF1451F165E55005185EB /* Products */,
 			);
 			sourceTree = "<group>";
@@ -48,12 +48,12 @@
 		ADFDF1451F165E55005185EB /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				ADFDF1441F165E55005185EB /* Real Dicee.app */,
+				ADFDF1441F165E55005185EB /* Dicee AR.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		ADFDF1461F165E55005185EB /* Real Dicee */ = {
+		ADFDF1461F165E55005185EB /* Dicee AR */ = {
 			isa = PBXGroup;
 			children = (
 				ADFDF1471F165E55005185EB /* AppDelegate.swift */,
@@ -64,15 +64,15 @@
 				ADFDF1521F165E55005185EB /* LaunchScreen.storyboard */,
 				ADFDF1551F165E55005185EB /* Info.plist */,
 			);
-			path = "Real Dicee";
+			path = "Dicee AR";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		ADFDF1431F165E55005185EB /* Real Dicee */ = {
+		ADFDF1431F165E55005185EB /* Dicee AR */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = ADFDF1581F165E55005185EB /* Build configuration list for PBXNativeTarget "Real Dicee" */;
+			buildConfigurationList = ADFDF1581F165E55005185EB /* Build configuration list for PBXNativeTarget "Dicee AR" */;
 			buildPhases = (
 				ADFDF1401F165E55005185EB /* Sources */,
 				ADFDF1411F165E55005185EB /* Frameworks */,
@@ -82,9 +82,9 @@
 			);
 			dependencies = (
 			);
-			name = "Real Dicee";
+			name = "Dicee AR";
 			productName = "Real Dicee";
-			productReference = ADFDF1441F165E55005185EB /* Real Dicee.app */;
+			productReference = ADFDF1441F165E55005185EB /* Dicee AR.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -103,7 +103,7 @@
 					};
 				};
 			};
-			buildConfigurationList = ADFDF13F1F165E55005185EB /* Build configuration list for PBXProject "Real Dicee" */;
+			buildConfigurationList = ADFDF13F1F165E55005185EB /* Build configuration list for PBXProject "Dicee AR" */;
 			compatibilityVersion = "Xcode 8.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -116,7 +116,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				ADFDF1431F165E55005185EB /* Real Dicee */,
+				ADFDF1431F165E55005185EB /* Dicee AR */,
 			);
 		};
 /* End PBXProject section */
@@ -282,10 +282,10 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = 3ECFYJZ64T;
-				INFOPLIST_FILE = "Real Dicee/Info.plist";
+				DEVELOPMENT_TEAM = 6MTQAAFW5T;
+				INFOPLIST_FILE = "Dicee AR/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.appbrewery.Real-Dicee";
+				PRODUCT_BUNDLE_IDENTIFIER = com.jpsg.DiceeAR;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -296,10 +296,10 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = 3ECFYJZ64T;
-				INFOPLIST_FILE = "Real Dicee/Info.plist";
+				DEVELOPMENT_TEAM = 6MTQAAFW5T;
+				INFOPLIST_FILE = "Dicee AR/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.appbrewery.Real-Dicee";
+				PRODUCT_BUNDLE_IDENTIFIER = com.jpsg.DiceeAR;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -309,7 +309,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		ADFDF13F1F165E55005185EB /* Build configuration list for PBXProject "Real Dicee" */ = {
+		ADFDF13F1F165E55005185EB /* Build configuration list for PBXProject "Dicee AR" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				ADFDF1561F165E55005185EB /* Debug */,
@@ -318,7 +318,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		ADFDF1581F165E55005185EB /* Build configuration list for PBXNativeTarget "Real Dicee" */ = {
+		ADFDF1581F165E55005185EB /* Build configuration list for PBXNativeTarget "Dicee AR" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				ADFDF1591F165E55005185EB /* Debug */,
